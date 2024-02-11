@@ -8,8 +8,8 @@ Python
 OOP
  By: Guillaume
  Weight: 1
- Project will start Feb 8, 2024 6:00 AM, must end by Feb 13, 2024 6:00 AM
- Checker will be released at Feb 12, 2024 6:00 PM
+ The project will start Feb 8, 2024, 6:00 AM, must end by Feb 13, 2024 6:00 AM
+ The checker will be released on Feb 12, 2024 6:00 PM
  Manual QA review must be done (request it when you are done with the project)
  An auto review will be launched at the deadline
 Background Context
@@ -37,7 +37,7 @@ Read or watch:
 
 args/kwargs
 JSON encoder and decoder
-unittest module
+unit test module
 Python test cheatsheet
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
