@@ -8,8 +8,13 @@ Python
 OOP
  By: Guillaume
  Weight: 1
+<<<<<<< HEAD
  Project will start Feb 8, 2024 6:00 AM, must end by Feb 13, 2024 6:00 AM
  Checker will be released at Feb 12, 2024 6:00 PM
+=======
+ The project will start Feb 8, 2024, 6:00 AM, must end by Feb 13, 2024 6:00 AM
+ The checker will be released on Feb 12, 2024 6:00 PM
+>>>>>>> dfff7bec0a45ff51263605559ae22bc356d73332
  Manual QA review must be done (request it when you are done with the project)
  An auto review will be launched at the deadline
 Background Context
@@ -37,7 +42,11 @@ Read or watch:
 
 args/kwargs
 JSON encoder and decoder
+<<<<<<< HEAD
 unittest module
+=======
+unit test module
+>>>>>>> dfff7bec0a45ff51263605559ae22bc356d73332
 Python test cheatsheet
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -54,6 +63,7 @@ You are tasked to come up with solutions for the tasks below yourself to meet wi
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
+<<<<<<< HEAD
 Requirements
 Python Scripts
 Allowed editors: vi, vim, emacs
@@ -933,4 +943,6 @@ File: models/base.py
  
 Copyright © 2024 ALX, All rights reserved.
 
+=======
+>>>>>>> dfff7bec0a45ff51263605559ae22bc356d73332
 

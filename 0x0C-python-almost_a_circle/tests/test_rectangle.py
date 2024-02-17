@@ -185,6 +185,7 @@ class TestRectangle(unittest.TestCase):
         r1.update()
         self.assertEqual(str(r1), "[Rectangle] (89) 4/5 - 2/3")
 
+<<<<<<< HEAD
     def test_8_1(self):
         """Test for public method update with wrong types."""
 
@@ -246,3 +247,6 @@ class TestRectangle(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main() 
+=======
+
+>>>>>>> dfff7bec0a45ff51263605559ae22bc356d73332
